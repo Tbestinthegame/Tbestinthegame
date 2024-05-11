@@ -9,6 +9,8 @@
 
 ## Aprendendo agora 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff
+)
 
 ## 📈GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tbestinthegame&theme=transparent&bg_color=012&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
